@@ -2,6 +2,7 @@
 This repository manages the 3D model of the motor introduced in the following YouTube video and blog article:
 
 YouTube video: https://youtu.be/HaURynfTqqo
+
 Blog article: https://agirobots.com/original-brushless-motor-2021/
 
 ## Number of Prints
