@@ -26,4 +26,5 @@ In addition to printing the above 3D models to create this brushless motor, you 
 | Ball Bearing | Outer Diameter: 32mm, Inner Diameter: 12mm, Thickness: 10mm | 2 |
 | Screw | Screw Diameter: 3mm, Length: 20mm | 6 |
 | Nut | Screw Diameter: 3mm | 6 |
+| Enamel Wire	| Diameter: 0.3mm, Approximately 100m	| 1 |
 | Adhesive | - | 1 |
